@@ -32,5 +32,177 @@ Her personal ethos is a blend of courage, adaptability, and optimism. She embrac
 ### **Looking Ahead**
 
 Divya is focused on building her personal and professional brand, expanding her influence through thought leadership, mentorship, and national-level recognition. Her vision encompasses not just technical mastery but also empowering others to navigate change and embrace reinvention confidently. With her combination of technical expertise, curiosity, and determination, she is poised to continue making a meaningful impact in technology, mentoring, and the broader professional community.
+---
+
+# **Divya Mahajan – Past Posts Notes**
+
+## **1. Hackathons & Team Experiences**
+
+**Key Stories:**
+
+* **#SoulBits Top 7 Hackathon**: Magic wasn’t in winning but in human connections, energy, and collaborative moments.
+
+  * Shared workspace with Lucian: inspiration from his solo success, mental dedication before physically moving to Bay Area.
+  * In-person energy: Asako cheering, Oscar’s ideation conversation on creativity.
+
+**Lessons & Insights:**
+
+* Creativity is a **practice, not innate**: “I have creativity” mindset → ideas grow when nurtured.
+* “Yes, and…” approach encourages idea expansion vs. over-editing prematurely.
+* Hackathon energy = people + optimism + momentum, not deadlines or pressure.
+* **Real takeaway**: Conversations and shared human spark are more valuable than trophies.
+
+**Notable Techniques Shared:**
+
+* Encourage “yes, and…” over devil’s advocate for ideation.
+* Treat creativity as a skill to practice.
+* Observe and learn from others’ workflow, habits, and persistence.
+
+---
+
+## **2. System Design & Knowledge Sharing**
+
+**Key Events:**
+
+* Hosted a **system design session**, covering:
+
+  * Bare metal vs. VMs vs. containers
+  * Scaling strategies, load balancing, replication
+  * Design exercises (e.g., a simplified Spotify version)
+
+**Insights:**
+
+* Teaching complex topics requires simplification + approachable examples.
+* Interactive sessions with thoughtful questions = most rewarding.
+* Engagement amplifies learning — participants co-create value through curiosity.
+
+**Takeaways:**
+
+* Make tech approachable via stories, examples, and practical exercises.
+* Small groups lead to deeper, higher-quality interactions.
+
+---
+
+## **3. Mentorship & Career Guidance**
+
+**Activities:**
+
+* 5–9 PM sessions mentoring young professionals:
+
+  * Career clarity, communication, resumes, elevator pitches
+  * Technical skills review
+  * AI project ideation & implementation guidance
+
+**Insights:**
+
+* Growth begins when individuals ask, learn, and act.
+* Mentoring emphasizes **confidence building** as much as knowledge transfer.
+* Personalized guidance matters — time invested in small, focused sessions yields high impact.
+
+**Practical Advice Provided:**
+
+* Communicate ideas clearly and confidently.
+* Translate ideas into real, showcase-worthy projects.
+* Explore frontier AI technologies.
+* Prepare for interviews, system design, and skill-building exercises.
+* Refine resumes, pitch, and personal brand for career growth.
+
+---
+
+## **4. Conferences & Braindates (GHC 2025, TEDAI)**
+
+**GHC 2025 Experiences:**
+
+* **Braindates & Micro TED Talks:** Small rooms, big ideas, collaborative problem-solving.
+* Morning: Conversation & body language cues (competence vs. warmth)
+* Afternoon: AI & tech introduction for non-coders
+
+**Insights:**
+
+* Real value = **personal interactions, storytelling, and shared curiosity**.
+* Micro-communities (small groups) lead to richer, more lasting impact.
+* Conferences are **as much about learning from people as from sessions**.
+
+**Other Highlights:**
+
+* Amazonian breakfast → candid conversations
+* TechWalk → pre-conference intimate interactions
+* Chicago adventures → experiential learning outside sessions
+
+---
+
+## **5. Career Reinvention & TEDAI Stage**
+
+**Personal Journey:**
+
+* 6.5 years in SAP ABAP → comfort zone → left to restart career from scratch.
+* Steps:
+
+  * Master’s in CS
+  * Learning new programming languages & paradigms
+  * Overcoming fear, doubt, and imposter syndrome
+
+**Key Messages:**
+
+* Reinvention is real: persistence + energy > fear.
+* Practical skills + transferable qualities = success in a new domain.
+* Audience takeaway: it’s okay to feel scared, growth happens when you act despite fear.
+
+**Outcome:**
+
+* Speaking at TEDAI San Francisco stage, reflecting career reset journey.
+* Recognition of personal growth and ability to pivot.
+
+---
+
+## **6. AI Projects & Hackathon Wins**
+
+**AI Music Coach – Upbeat:**
+
+* Features:
+
+  * Finger recognition + real-time feedback
+  * Adaptive pace & progress tracking
+  * Personalized, judgment-free coaching
+  * No expensive lessons, no scheduling issues
+* Hackathon Outcome:
+
+  * Won 2nd prize at Google Gemini Hackathon
+  * Opportunity to present at TEDAI SF
+
+**Key Takeaways:**
+
+* AI can **democratize learning** and remove barriers.
+* Ambitious technical challenges can succeed with persistence and collaboration.
+* Energy and curiosity are crucial for problem-solving under pressure.
+
+---
+
+## **7. Core Themes Across Posts**
+
+* **People & Human Connection**: Hackathons, Braindates, mentorship — the spark comes from interactions.
+* **Curiosity & Growth Mindset**: “I have creativity”, career reinvention, skill-building.
+* **Persistence & Energy**: Overcoming fear, working late nights, completing ambitious AI projects.
+* **Knowledge Sharing & Teaching**: System design sessions, mentorship, AI workshops.
+* **Fun & Playfulness**: Chai coding, micro-adventures, playful approach to learning and building.
+
+---
+
+## **8. Patterns & Style**
+
+* **Narrative-driven**: Each post tells a story, often starting with a personal experience → lesson → broader insight.
+* **Mixed-format**: Paragraphs + bullet points, emojis, casual humor.
+* **Actionable Advice**: Not just stories — includes practical insights for readers.
+* **Inspirational**: Encourages reinvention, taking risks, building confidence.
+
+---
+
+## **9. Potential Future Post Directions**
+
+* Deep dive into **AI project building**: From ideation → architecture → deployment.
+* Mentorship reflections: measurable impact on mentees’ career growth.
+* System design simplifications: “From zero to scalable” guides.
+* Conference insights: practical applications of Braindate-style learning.
+* Personal growth stories: balancing fear, persistence, and curiosity.
 
 ---
