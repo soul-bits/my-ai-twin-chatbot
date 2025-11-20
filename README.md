@@ -41,16 +41,6 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-Or install manually:
-```bash
-pip install python-dotenv openai requests pypdf gradio
-```
-
-**For Jupyter Notebook users:** If you plan to use Jupyter, also install:
-```bash
-pip install jupyter ipykernel
-```
-
 ## Configuration
 
 1. Copy the example environment file:
