@@ -18,19 +18,24 @@ An open-source, customizable framework for creating a personal, RAG-style AI ass
 
 ## Installation
 
-1. Clone this repository:
+1. Fork this repository:
+   - Go to https://github.com/soul-bits/my-ai-twin-chatbot
+   - Click the "Fork" button in the top right corner to create your own copy
+
+2. Clone your forked repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/YOUR_USERNAME/my-ai-twin-chatbot.git
 cd my-ai-twin-chatbot
 ```
+Replace `YOUR_USERNAME` with your GitHub username.
 
-2. Create and activate a virtual environment:
+3. Create and activate a virtual environment:
 ```bash
 python3 -m venv myenv
 source myenv/bin/activate  # On Windows: myenv\Scripts\activate
 ```
 
-3. Install the required dependencies:
+4. Install the required dependencies:
 ```bash
 pip install --upgrade pip
 pip install -r requirements.txt
